@@ -1,5 +1,7 @@
 # Hi, I'm marious5
 
+English | [简体中文](README.zh-CN.md)
+
 I build HarmonyOS apps and AI-assisted user experiences, with a focus on practical client-side engineering, clean interaction flows, and backend API integration.
 
 ## Featured Projects
