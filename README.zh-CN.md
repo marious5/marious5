@@ -31,6 +31,11 @@
 
 **技术栈：** HarmonyOS、ArkTS、ArkUI、REST APIs、本地缓存、图片选择器、主题管理
 
+## 项目文档
+
+- [Timer_Harmony 中文开发说明](https://github.com/marious5/Timer_Harmony/blob/main/docs/DEVELOPMENT.zh-CN.md)
+- [Cybar_Harmony 中文开发说明](https://github.com/marious5/Cybar_Harmony/blob/master/docs/DEVELOPMENT.zh-CN.md)
+
 ## 当前关注
 
 - 使用 ArkTS 和 ArkUI 开发 HarmonyOS 应用
@@ -46,4 +51,3 @@
 ## GitHub
 
 我近期的主要工作集中在 HarmonyOS 客户端、AI 辅助应用功能，以及把算法和课程实践连接到可用软件的项目中。
-

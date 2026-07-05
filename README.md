@@ -31,6 +31,11 @@ A HarmonyOS client for cocktail recipes, recommendations, custom recipe creation
 
 **Tech:** HarmonyOS, ArkTS, ArkUI, REST APIs, local cache, image picker, theme management
 
+## Documentation
+
+- [Timer_Harmony Development Guide](https://github.com/marious5/Timer_Harmony/blob/main/docs/DEVELOPMENT.md)
+- [Cybar_Harmony Development Guide](https://github.com/marious5/Cybar_Harmony/blob/master/docs/DEVELOPMENT.md)
+
 ## Current Focus
 
 - HarmonyOS application development with ArkTS and ArkUI
@@ -46,4 +51,3 @@ A HarmonyOS client for cocktail recipes, recommendations, custom recipe creation
 ## GitHub
 
 Most of my recent work is around HarmonyOS clients, AI-assisted app features, and course projects that connect algorithms with usable software.
-
