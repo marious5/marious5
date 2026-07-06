@@ -31,6 +31,10 @@ A HarmonyOS client for cocktail recipes, recommendations, custom recipe creation
 
 **Tech:** HarmonyOS, ArkTS, ArkUI, REST APIs, local cache, image picker, theme management
 
+## LeetCode
+
+[![LeetCode CN Stats](https://leetcard.jacoblin.cool/liang-zhi-7b?site=cn&theme=light&ext=activity)](https://leetcode.cn/u/liang-zhi-7b/)
+
 ## Documentation
 
 - [Timer_Harmony Development Guide](https://github.com/marious5/Timer_Harmony/blob/main/docs/DEVELOPMENT.md)

@@ -31,6 +31,10 @@
 
 **技术栈：** HarmonyOS、ArkTS、ArkUI、REST APIs、本地缓存、图片选择器、主题管理
 
+## LeetCode
+
+[![LeetCode 中国区统计](https://leetcard.jacoblin.cool/liang-zhi-7b?site=cn&theme=light&ext=activity)](https://leetcode.cn/u/liang-zhi-7b/)
+
 ## 项目文档
 
 - [Timer_Harmony 中文开发说明](https://github.com/marious5/Timer_Harmony/blob/main/docs/DEVELOPMENT.zh-CN.md)
