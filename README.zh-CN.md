@@ -6,8 +6,9 @@
 
 ## 实习经历
 ### 2026.05-至今 剪映CapCut-用户增长
-- 主导开发 https://www.xiaoyunque.com/
-- 参与 https://www.pippit.ai/ 建设
+- 主导开发 https://www.xiaoyunque.com/ 
+- 参与 https://www.pippit.ai/ 建设 
+（其实都还有很多可优化空间，但项目pending了🤔）
 
 ## 重点项目
 
