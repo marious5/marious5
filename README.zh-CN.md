@@ -2,7 +2,12 @@
 
 [English](README.md) | 简体中文
 
-我主要构建 HarmonyOS 应用和 AI 辅助用户体验，关注实用的客户端工程、清晰的交互流程和后端 API 对接。
+我主要参与 Web/HarmonyOS 开发和 AI 辅助用户体验，关注实用的客户端工程、清晰的交互流程和后端 API 对接。
+
+## 实习经历
+### 2026.05-至今 剪映CapCut-用户增长
+- 主导开发 https://www.xiaoyunque.com/
+- 参与 https://www.pippit.ai/ 建设
 
 ## 重点项目
 
@@ -30,6 +35,7 @@
 - 面向用户、配方和评论的管理页面
 
 **技术栈：** HarmonyOS、ArkTS、ArkUI、REST APIs、本地缓存、图片选择器、主题管理
+
 
 ## LeetCode
 
