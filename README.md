@@ -8,7 +8,6 @@ I primarily work on web and HarmonyOS development, as well AI-assisted user expe
 ### May 2026 - Present | CapCut - User Growth
 - Led the development of [Xiaoyunque](https://www.xiaoyunque.com/)
 - Contributed to the development of [Pippit](https://www.pippit.ai/)
-(There's still plenty of room for improvement, but the project has been put on hold for now🤔)
 
 ## Featured Projects
 
